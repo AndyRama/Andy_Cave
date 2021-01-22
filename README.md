@@ -1,4 +1,5 @@
 # Andy cave
+forked from JulianLF/My_Cave, Upgrade and deployment in heroku.
  ![Screenshot from 2020-07-07 19-47-44](https://github.com/AndyRama/andycave/blob/master/My%20cave.PNG)  
 
 # URL  
@@ -16,5 +17,4 @@ New application allowing producers to connect to facilitate the home alcohol tra
 -PostgreSQL  
 -Git/GitHub  
 -Heroku  
--Rubocop
  
