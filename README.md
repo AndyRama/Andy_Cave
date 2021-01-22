@@ -1,8 +1,5 @@
 # Andy cave
  ![Screenshot from 2020-07-07 19-47-44](https://github.com/AndyRama/andycave/blob/master/My%20cave.PNG)  
- 
-# Base
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
 
 # URL  
 https://andycave.herokuapp.com/
